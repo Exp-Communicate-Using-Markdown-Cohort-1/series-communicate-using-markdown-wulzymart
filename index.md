@@ -10,3 +10,10 @@
 const item = "code block"
 console.log(item)
 ```
+
+### This is a tasks list
+- [ ] Wake up
+- [ ] pray
+- [ ] Read bible
+- [ ] Eat
+- [ ] work
